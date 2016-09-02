@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 #Mis gemas
 gem 'devise' #Manejo de usuarios
 gem 'bootstrap-sass' #Framework Bootstrap 
-
+gem 'font-awesome-rails' #Iconos web
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
